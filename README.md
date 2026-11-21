@@ -5,7 +5,7 @@
 **Curso:** Laboratorio de Electrónica Digital F604  
 **Institución:** ECFM-USAC
 
-Parte II: diez programas independientes de C. Cada archivo comienza con un comentario descriptivo. No se requieren bibliotecas externas. La solución fue preparada con asistencia de ChatGPT y verificada mediante ejecución real.
+Parte II: diez programas independientes de C. Cada archivo comienza con un comentario descriptivo. No se requieren bibliotecas externas.
 
 ## Compilación y ejecución
 
